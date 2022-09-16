@@ -29,28 +29,28 @@ export const projectsData = [
     },
     {
         id: 3,
-        projectName: 'E-CommerceApp Cezerin2',
-        projectDesc: 'Cezerin is React and Node.js based eCommerce platform. React Shopping Cart.',
-        tags: ['ReactJS', 'Redux', 'NodeJS', 'ExpressJS', 'Babel', 'Webpack', 'MongoDB'],
-        code: 'https://github.com/WebDevYCH/Cezerin2',
-        demo: 'https://cezerin.net/',
+        projectName: 'MERNstack-ecommerce-store',
+        projectDesc: 'An full-stack eCommerce store web application in MERN-stack',
+        tags: ['Node', 'Express', 'React', 'MongoDB'],
+        code: 'https://github.com/WebDevYCH/MERNstack-ecommerce-store.git',
+        demo: '',
         image: three
     },
     {
         id: 4,
-        projectName: 'Django Company Website',
-        projectDesc: 'This project involves the development of a django company website,',
-        tags: ['Python', 'Django', 'Docker'],
-        code: 'https://github.com/WebDevYCH/django-company-website',
+        projectName: 'laravel-vuejs-demo',
+        projectDesc: 'Simple Laravel and Vue.js Application for beginners, that demonstrate use of VueJs concepts like Two Way Binding, Computed Property, Components, Sub-Components, Vue Router, Vue Portal, Filters, CRUD etc...',
+        tags: ['Vue', 'Laravel'],
+        code: 'https://github.com/WebDevYCH/laravel-vuejs-demo',
         demo: '',
         image: four
     },
     {
         id: 5,
-        projectName: 'olympus-frontend',
-        projectDesc: 'This is the front-end repo for Olympus that allows users be part of the future of Greece.',
-        tags: ['React', 'MaterialUI', 'Typescript', 'GraphQL'],
-        code: 'https://github.com/WebDevYCH/olympus-frontend',
+        projectName: 'Django Company Website',
+        projectDesc: 'This project involves the development of a django company website,',
+        tags: ['Python', 'Django', 'Docker'],
+        code: 'https://github.com/WebDevYCH/django-company-website',
         demo: '',
         image: five
     },
@@ -62,6 +62,24 @@ export const projectsData = [
         code: 'https://github.com/WebDevYCH/handReacting',
         demo: '',
         image: six
+    },
+    {
+        id: 7,
+        projectName: 'Laravel Large Project',
+        projectDesc: 'From this project you can learn how to build large and maintainable projects with Laravel framework.',
+        tags: ['PHP', 'Laravel', 'Blade', 'Shell'],
+        code: 'https://github.com/WebDevYCH/laravel-large-project',
+        demo: '',
+        image: seven
+    },
+    {
+        id: 8,
+        projectName: 'vue-company-website',
+        projectDesc: 'This is the front-end repo for a company website built with Vue.js',
+        tags: ['Vue', 'SCSS', 'Javascript'],
+        code: 'https://github.com/WebDevYCH/vue-company-website.git',
+        demo: '',
+        image: eight
     },
 ]
 
