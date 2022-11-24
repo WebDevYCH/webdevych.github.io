@@ -1,5 +1,5 @@
 import resume from '../assets/pdf/resume.pdf'
-import avatar from '../assets/avatar/7.jpg'
+import avatar from '../assets/avatar/me-suit.png'
 
 export const headerData = {
     name: 'Edward Murray',
