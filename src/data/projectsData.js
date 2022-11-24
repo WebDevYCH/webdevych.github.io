@@ -39,7 +39,7 @@ export const projectsData = [
     {
         id: 4,
         projectName: 'Laravel-Vuejs Project',
-        projectDesc: 'Simple Laravel and Vue.js Application for beginners, that demonstrate use of VueJs concepts like Two Way Binding, Computed Property, Components, Sub-Components, Vue Router, Vue Portal, Filters, CRUD etc...',
+        projectDesc: 'Simple Laravel and Vue.js Application for beginners.',
         tags: ['Vue', 'Laravel'],
         code: 'https://github.com/WebDevYCH/laravel-vuejs-demo',
         demo: '',

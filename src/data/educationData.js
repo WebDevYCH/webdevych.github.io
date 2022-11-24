@@ -1,16 +1,16 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Somerset School of Science',
-        course: 'Bachelor of science - Computer Science',
-        startYear: '2007',
-        endYear: '2012'
+        institution: 'The Hong Kong University of Science and Technology',
+        course: `Master's degree - Computer Science`,
+        startYear: '2013',
+        endYear: '2018'
     },
-    {
-        id: 2,
-        institution: 'Cambridge Academy for Science and Technology',
-        course: 'Master of Science - Information Technology',
-        startYear: '2014',
-        endYear: '2017'
-    },
+    // {
+    //     id: 2,
+    //     institution: 'Cambridge Academy for Science and Technology',
+    //     course: 'Master of Science - Information Technology',
+    //     startYear: '2014',
+    //     endYear: '2017'
+    // },
 ]
