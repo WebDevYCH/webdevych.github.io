@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.9e137b3c.chunk.css",
-    "main.js": "/static/js/main.ae639243.chunk.js",
-    "main.js.map": "/static/js/main.ae639243.chunk.js.map",
+    "main.js": "/static/js/main.7ad38ed3.chunk.js",
+    "main.js.map": "/static/js/main.7ad38ed3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.11e15922.js",
     "runtime-main.js.map": "/static/js/runtime-main.11e15922.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
@@ -14,7 +14,6 @@
     "static/css/2.19627560.chunk.css.map": "/static/css/2.19627560.chunk.css.map",
     "static/css/main.9e137b3c.chunk.css.map": "/static/css/main.9e137b3c.chunk.css.map",
     "static/js/2.f39c51e5.chunk.js.LICENSE.txt": "/static/js/2.f39c51e5.chunk.js.LICENSE.txt",
-    "static/media/7.dcde84d2.jpg": "/static/media/7.dcde84d2.jpg",
     "static/media/index.css": "/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/adobe-xd.fa7a22d2.svg": "/static/media/adobe-xd.fa7a22d2.svg",
     "static/media/adobeaudition.dd56aeda.svg": "/static/media/adobeaudition.dd56aeda.svg",
@@ -100,6 +99,7 @@
     "static/media/markdown.6fca45ee.svg": "/static/media/markdown.6fca45ee.svg",
     "static/media/materialui.d7f5c38f.svg": "/static/media/materialui.d7f5c38f.svg",
     "static/media/matlab.98ad4951.svg": "/static/media/matlab.98ad4951.svg",
+    "static/media/me-suit.d8704e64.png": "/static/media/me-suit.d8704e64.png",
     "static/media/memsql.6bfaf0ce.svg": "/static/media/memsql.6bfaf0ce.svg",
     "static/media/microsoftoffice.75a83b98.svg": "/static/media/microsoftoffice.75a83b98.svg",
     "static/media/mongoDB.4428e2ce.svg": "/static/media/mongoDB.4428e2ce.svg",
@@ -157,6 +157,6 @@
     "static/css/2.19627560.chunk.css",
     "static/js/2.f39c51e5.chunk.js",
     "static/css/main.9e137b3c.chunk.css",
-    "static/js/main.ae639243.chunk.js"
+    "static/js/main.7ad38ed3.chunk.js"
   ]
 }
