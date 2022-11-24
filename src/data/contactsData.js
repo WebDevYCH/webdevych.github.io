@@ -1,7 +1,7 @@
 export const contactsData = {
     email: 'edwardmurray900926@gmail.com',
-    phone: 'My Phone Number',
-    address: 'My Address',
+    phone: '+19043287111',
+    address: 'Jacksonville, FL, US',
 
     sheetAPI: ''
 }
